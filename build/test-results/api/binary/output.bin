@@ -1,0 +1,79 @@
+responseBody = {
+    "data": [
+
+        {
+            "id": 1,
+             "name": "Facebook",
+-            "external_provider": "facebook",
+            "active": true,
+            "display_order": 1
+        },
+
+        {
+            "id": 2,
+             "name": "LinkedIn",
+-            "external_provider": "linkedin",
+            "active": true,
+            "display_order": 2
+        },
+
+        {
+            "id": 3,
+!            "name": "Instagram",
+.            "external_provider": "instagram",
+            "active": true,
+            "display_order": 3
+        },
+
+        {
+            "id": 4,
+            "name": "Google",
++            "external_provider": "google",
+            "active": true,
+            "display_order": 4
+        },
+
+        {
+            "id": 8,
+            "name": "Twitter",
+,            "external_provider": "twitter",
+            "active": true,
+            "display_order": 5
+        },
+
+        {
+            "id": 9,
+            "name": "Vk",
+'            "external_provider": "vk",
+            "active": true,
+            "display_order": 6
+        },
+
+        {
+            "id": 10,
+            "name": "Yahoo",
+*            "external_provider": "yahoo",
+            "active": false,
+            "display_order": 7
+        },
+
+        {
+            "id": 5,
+            "name": "Email",
+.            "external_provider": "undefined",
+            "active": true,
+            "display_order": 8
+        },
+
+        {
+            "id": 11,
+            "name": "Apple",
+*            "external_provider": "apple",
+            "active": true,
+            "display_order": 9
+
+        }
+    ],
+    "version": "2.0"
+}
+
